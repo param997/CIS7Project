@@ -1,2 +1,2 @@
 # CIS7Project
-The Vigenère cipher encryption is a method of encrypting text that involves using a series of interwoven Caesar ciphers.
+The Vigenère cipher encryption is a method of encrypting text that involves using a series of interwoven Caesar ciphers. The encryption process involves using a keyword or phrase as the key, which is repeated to match the length of the plaintext. Each letter of the plaintext is then shifted by the corresponding letter in the key using the Caesar cipher technique. The resulting ciphertext is formed by combining the shifted letters. 
